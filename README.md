@@ -50,8 +50,6 @@ streamlit run supportflow.py
 ```
 Visit the URL shown in your terminal, usually http://localhost:8501
 
-
-
 Project Structure
 ```bash
 supportflow_project/
@@ -60,6 +58,12 @@ supportflow_project/
 ├── README.md              # Project overview and instructions
 └── screenshot.png         # Dashboard UI screenshot
  ```
+
+### Deployment (Optional)
+This app is deployed on Streamlit Cloud with the following:
+- GitHub repository: gracy1305/supportflow-optimizer
+- Main file: supportflow.py
+- Custom subdomain: https://supportflow.streamlit.app
 
 Gracy Patel
 MS in Computer Science | DePaul University
